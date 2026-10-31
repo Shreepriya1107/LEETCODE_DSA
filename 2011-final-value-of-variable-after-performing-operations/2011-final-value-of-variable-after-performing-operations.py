@@ -4,7 +4,7 @@ class Solution:
         for i in range(len(operations)):
             if operations[i] == "++X" or operations[i] == "X++":
                 c+=1
-            elif operations[i] == "--X" or operations[i] == "X--":
+            else:
                 c-=1
         return c
         
