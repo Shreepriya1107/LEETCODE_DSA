@@ -14,4 +14,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shreepriya1107/LEETCODE_DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
